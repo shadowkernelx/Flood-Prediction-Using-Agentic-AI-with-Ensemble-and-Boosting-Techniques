@@ -239,7 +239,7 @@ We welcome contributions to this autonomous AI system! Here's how to get involve
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/your-username/deepl-learning-paper-implementation.git
+git clone https://github.com/shadowkernelx/Flood-Prediction-Using-Agentic-AI-with-Ensemble-and-Boosting-Techniques?tab=readme-ov-file.git
 
 # Create a virtual environment
 python -m venv venv
@@ -273,10 +273,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/your-username/deepl-learning-paper-implementation/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/your-username/deepl-learning-paper-implementation/discussions)
-- 📧 **Email**: your-email@domain.com
-- 🌐 **Live Demo**: [HuggingFace Space](https://huggingface.co/spaces/your-username/agentic-flood-prediction)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/shadowkernelx/Flood-Prediction-Using-Agentic-AI-with-Ensemble-and-Boosting-Techniques?tab=readme-ov-file/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/shadowkernelx/Flood-Prediction-Using-Agentic-AI-with-Ensemble-and-Boosting-Techniques?tab=readme-ov-file/discussions)
+- 📧 **Email**: f2022393008@umt.edu.pk
+- 🌐 **Live Demo**: [HuggingFace Space](https://shadowkernelx-agentic-flood-prediction.hf.space/)
 
 ## 🏆 Citation
 
@@ -285,9 +285,9 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{agentic_flood_prediction_2024,
   title={Agentic AI Flood Prediction System: Autonomous Multi-Agent Deep Learning},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-username/deepl-learning-paper-implementation}
+  author={M Fahad Irshad},
+  year={2025},
+  url={https://github.com/shadowkernelx/Flood-Prediction-Using-Agentic-AI-with-Ensemble-and-Boosting-Techniques?tab=readme-ov-file}
 }
 ```
 
